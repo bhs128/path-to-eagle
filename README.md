@@ -2,7 +2,7 @@
 
 A tech-tree map of a Scout's path from joining to Eagle, built from the reports a parent or Scout can download from TroopWebHost.
 
-**[Open the page →](https://YOUR-USERNAME.github.io/path-to-eagle/)**
+**[Open the page →](https://bhs128.github.io/path-to-eagle/)**
 
 ## What it does
 
